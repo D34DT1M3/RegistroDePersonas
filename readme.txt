@@ -1,0 +1,1 @@
+El presente proyecto es un CRUD hecho a partir de cursos con java para el registro de personas en una base de datos de forma local con mysql y phpmyadmin, utilizo el modelo DAO.
